@@ -32,6 +32,7 @@ class SecondViewController: UIViewController {
         //hint 1: look uo UI Label
         //hint 2: look up attributes of UI Label
         
+        firstLabel.text = "I did it"
     }
     /*
     // MARK: - Navigation
